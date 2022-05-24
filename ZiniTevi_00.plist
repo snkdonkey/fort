@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://ziniteviapp.github.io/fav/og-image.png</string>
+					<string>https://raw.githubusercontent.com/snkdonkey/fort/main/AppIcon83.5x83.5%402x~ipad.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>https://ziniteviapp.github.io/fav/og-image.png</string>
+					<string>https://raw.githubusercontent.com/snkdonkey/fort/main/AppIcon83.5x83.5%402x~ipad.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -39,7 +39,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>ZiniTevi</string>
+				<string>Fortnite</string>
 			</dict>
 		</dict>
 	</array>
